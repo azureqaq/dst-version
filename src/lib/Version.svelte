@@ -11,4 +11,13 @@
     });
 </script>
 
-<p>Version: {data}</p>
+<p id="current_version">
+    <strong>{data}</strong>
+</p>
+
+<style>
+    #current_version {
+        color: darkgreen;
+        font-size: larger;
+    }
+</style>

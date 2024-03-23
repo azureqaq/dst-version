@@ -1,0 +1,177 @@
+[
+    {
+        "version": 587277,
+        "release_date": "2023-12-19",
+        "is_release": true,
+        "is_hotfix": false,
+        "is_pinned": true
+    },
+    {
+        "version": 599792,
+        "release_date": "2024-03-22",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 599666,
+        "release_date": "2024-03-21",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 599141,
+        "release_date": "2024-03-19",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 598753,
+        "release_date": "2024-03-15",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 598446,
+        "release_date": "2024-03-14",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 597704,
+        "release_date": "2024-03-08",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 597344,
+        "release_date": "2024-03-07",
+        "is_release": false,
+        "is_hotfix": false,
+        "is_pinned": false
+    },
+    {
+        "version": 595714,
+        "release_date": "2024-02-27",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 593204,
+        "release_date": "2024-02-08",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 593060,
+        "release_date": "2024-02-08",
+        "is_release": true,
+        "is_hotfix": false,
+        "is_pinned": false
+    },
+    {
+        "version": 590113,
+        "release_date": "2024-01-19",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 588693,
+        "release_date": "2024-01-12",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 587581,
+        "release_date": "2023-12-21",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 587429,
+        "release_date": "2023-12-19",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 586896,
+        "release_date": "2023-12-14",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 586529,
+        "release_date": "2023-12-14",
+        "is_release": true,
+        "is_hotfix": false,
+        "is_pinned": false
+    },
+    {
+        "version": 585956,
+        "release_date": "2023-12-08",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 584421,
+        "release_date": "2023-12-01",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 584404,
+        "release_date": "2023-11-30",
+        "is_release": false,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 584245,
+        "release_date": "2023-11-30",
+        "is_release": false,
+        "is_hotfix": false,
+        "is_pinned": false
+    },
+    {
+        "version": 580433,
+        "release_date": "2023-11-07",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 580156,
+        "release_date": "2023-11-03",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 579931,
+        "release_date": "2023-11-02",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    },
+    {
+        "version": 579589,
+        "release_date": "2023-11-01",
+        "is_release": true,
+        "is_hotfix": true,
+        "is_pinned": false
+    }
+]

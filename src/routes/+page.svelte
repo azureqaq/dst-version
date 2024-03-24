@@ -37,5 +37,5 @@ Get DST version number every two hours from&nbsp;<a
     <li>
         Klei's Official Website: <a href="https://www.klei.com/">Klei</a>
     </li>
-    <li>LICENSE: <a href="https://mit-license.org/">MIT</a></li>
+    <li>LICENSE: <a href="https://3moredays.mit-license.org/">MIT</a></li>
 </ul>

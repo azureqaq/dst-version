@@ -2,8 +2,6 @@ name: Deploy to GitHub Pages
 
 on:
   workflow_dispatch:
-  push:
-    branches: 'master'
   workflow_call:
 
 
@@ -29,7 +27,7 @@ jobs:
         env:
           BASE_PATH: '/${{ github.event.repository.name }}'
         run: |
-          git pull -pr
+          git pull
           npm run build
 
       - name: Upload Artifacts

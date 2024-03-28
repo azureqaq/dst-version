@@ -13,6 +13,7 @@ vite.config.ts.timestamp-*
 venv/
 __pycache__/
 
-# temp
-/temp
+
+# local
 .vscode/
+*_local*

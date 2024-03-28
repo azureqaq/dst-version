@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   workflow_dispatch:
   push:
-    branches: 'gh'
+    branches: 'master'
   workflow_call:
 
 
@@ -14,16 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: gh
-
-      - uses: actions/cache@v4
-        with:
-          path: temp
-          key: versions-temp
-      - run: |
-          cd ${{ github.workspace }}
-          rm -f static/version*
-          cp temp/* static/
+          fetch-depth: 1
 
       - name: Install Node.js
         uses: actions/setup-node@v4
@@ -38,6 +29,7 @@ jobs:
         env:
           BASE_PATH: '/${{ github.event.repository.name }}'
         run: |
+          git pull -pr
           npm run build
 
       - name: Upload Artifacts

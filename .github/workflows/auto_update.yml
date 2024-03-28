@@ -1,0 +1,45 @@
+name: AutoUpdate
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0/2 * * * # Every Sunday at 00:00 UTC
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      need_update: ${{ steps.result.outputs.need_update }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip' # caching pip dependencies
+      - run: pip install -r requirements.txt
+
+      - name: Update versions
+        run: |
+          python3 update_version.py
+
+      - name: Commit and Push
+        id: result
+        run: |
+          if [ `git status | grep modified | wc -l` -ne 0 ]; then
+            git add -A
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "$(cat static/version.txt | grep -o [0-9]*)"
+            git push
+            echo "need_update=True" >> $GITHUB_OUTPUT
+          fi
+
+  push_gh:
+    needs: update
+    if: ${{ needs.update.outputs.need_update }}
+    uses: azureqaq/dst-version/.github/workflows/deploy.yml@master

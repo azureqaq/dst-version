@@ -5,7 +5,10 @@
 
 <h1>DST Version</h1>
 <hr />
-Get DST version number every two hours from&nbsp;<a
+Get <a href="https://store.steampowered.com/app/322330/_/"
+    >Don't&nbsp;Starve&nbsp;Together</a
+>
+version number every two hours from&nbsp;<a
     href="https://forums.kleientertainment.com/game-updates/dst/"
     >Klei&nbsp;forum</a
 >.

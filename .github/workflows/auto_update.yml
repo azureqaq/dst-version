@@ -32,7 +32,7 @@ jobs:
       - name: Commit and Push
         id: result
         run: |
-          if [ `git status | grep modified | wc -l` -ne 0 ]; then
+          if [ `git status static/versions.json | grep modified | wc -l` -ne 0 ]; then
             git add -A
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

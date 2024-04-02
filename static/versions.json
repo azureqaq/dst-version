@@ -25,7 +25,7 @@
     "release_date": "2024-03-27",
     "is_release": true,
     "is_hotfix": false,
-    "is_pinned": false
+    "is_pinned": true
   },
   {
     "version": 599792,
@@ -130,7 +130,7 @@
     "release_date": "2023-12-19",
     "is_release": true,
     "is_hotfix": false,
-    "is_pinned": true
+    "is_pinned": false
   },
   {
     "version": 586896,

@@ -1,6 +1,6 @@
 <script>
     import { onMount } from "svelte";
-    const endpoint = "/dst-version/version.txt";
+    const endpoint = "/version.txt";
 
     let data = "...";
 

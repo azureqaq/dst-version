@@ -1,6 +1,6 @@
 <script>
     import { onMount } from "svelte";
-    const endpoint = "/dst-version/versions.json";
+    const endpoint = "/versions.json";
 
     let data = [];
 

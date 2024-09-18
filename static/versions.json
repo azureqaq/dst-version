@@ -1,5 +1,12 @@
 [
   {
+    "version": 631844,
+    "release_date": "2024-09-17",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
     "version": 631099,
     "release_date": "2024-09-12",
     "is_release": true,
@@ -163,13 +170,6 @@
   {
     "version": 600680,
     "release_date": "2024-03-28",
-    "is_release": true,
-    "is_hotfix": true,
-    "is_pinned": false
-  },
-  {
-    "version": 600454,
-    "release_date": "2024-03-27",
     "is_release": true,
     "is_hotfix": true,
     "is_pinned": false

@@ -4,7 +4,7 @@
     "release_date": "2024-10-24",
     "is_release": true,
     "is_hotfix": false,
-    "is_pinned": false
+    "is_pinned": true
   },
   {
     "version": 634023,
@@ -39,7 +39,7 @@
     "release_date": "2024-09-12",
     "is_release": true,
     "is_hotfix": false,
-    "is_pinned": true
+    "is_pinned": false
   },
   {
     "version": 630072,

@@ -11,7 +11,7 @@
     "release_date": "2025-02-27",
     "is_release": true,
     "is_hotfix": false,
-    "is_pinned": false
+    "is_pinned": true
   },
   {
     "version": 657126,
@@ -116,7 +116,7 @@
     "release_date": "2025-01-23",
     "is_release": true,
     "is_hotfix": false,
-    "is_pinned": true
+    "is_pinned": false
   },
   {
     "version": 647953,

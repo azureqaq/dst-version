@@ -168,10 +168,10 @@
     "is_pinned": false
   },
   {
-    "version": 657420,
+    "version": 657284,
     "release_date": "2025-02-27",
     "is_release": true,
-    "is_hotfix": true,
+    "is_hotfix": false,
     "is_pinned": false
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "version": 690619,
+    "release_date": "2025-09-18",
+    "is_release": true,
+    "is_hotfix": false,
+    "is_pinned": true
+  },
+  {
     "version": 690523,
     "release_date": "2025-09-17",
     "is_release": false,
@@ -60,7 +67,7 @@
     "release_date": "2025-07-31",
     "is_release": true,
     "is_hotfix": false,
-    "is_pinned": true
+    "is_pinned": false
   },
   {
     "version": 681181,
@@ -156,13 +163,6 @@
   {
     "version": 675312,
     "release_date": "2025-06-16",
-    "is_release": true,
-    "is_hotfix": true,
-    "is_pinned": false
-  },
-  {
-    "version": 674842,
-    "release_date": "2025-06-12",
     "is_release": true,
     "is_hotfix": true,
     "is_pinned": false

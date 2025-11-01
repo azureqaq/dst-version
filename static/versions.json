@@ -53,7 +53,7 @@
     "release_date": "2025-09-18",
     "is_release": true,
     "is_hotfix": false,
-    "is_pinned": true
+    "is_pinned": false
   },
   {
     "version": 690523,

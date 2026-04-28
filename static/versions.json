@@ -1,1 +1,177 @@
-[]
+[
+  {
+    "version": 725134,
+    "release_date": "2026-04-27",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 724783,
+    "release_date": "2026-04-24",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 722900,
+    "release_date": "2026-04-16",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 722897,
+    "release_date": "2026-04-16",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 722832,
+    "release_date": "2026-04-16",
+    "is_release": true,
+    "is_hotfix": false,
+    "is_pinned": false
+  },
+  {
+    "version": 722745,
+    "release_date": "2026-04-15",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 722535,
+    "release_date": "2026-04-14",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 722310,
+    "release_date": "2026-04-13",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 722057,
+    "release_date": "2026-04-12",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 721079,
+    "release_date": "2026-04-06",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 720809,
+    "release_date": "2026-04-02",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 719857,
+    "release_date": "2026-03-27",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 719586,
+    "release_date": "2026-04-01",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 719209,
+    "release_date": "2026-03-23",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 719036,
+    "release_date": "2026-03-20",
+    "is_release": false,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 718778,
+    "release_date": "2026-03-19",
+    "is_release": false,
+    "is_hotfix": false,
+    "is_pinned": false
+  },
+  {
+    "version": 718694,
+    "release_date": "2026-03-19",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 718478,
+    "release_date": "2026-03-19",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 714014,
+    "release_date": "2026-02-23",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 713564,
+    "release_date": "2026-02-19",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 712852,
+    "release_date": "2026-02-13",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 712555,
+    "release_date": "2026-02-12",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 712312,
+    "release_date": "2026-02-12",
+    "is_release": true,
+    "is_hotfix": false,
+    "is_pinned": false
+  },
+  {
+    "version": 706363,
+    "release_date": "2026-01-07",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  },
+  {
+    "version": 705416,
+    "release_date": "2025-12-22",
+    "is_release": true,
+    "is_hotfix": true,
+    "is_pinned": false
+  }
+]
